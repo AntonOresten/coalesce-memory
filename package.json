@@ -3,14 +3,21 @@
   "version": "0.1.0",
   "description": "Coalesce agentic CLI memory files (CLAUDE.md, GEMINI.md, codex.md) into AGENTS.md",
   "bin": {
-    "come": "./bin/come.js"
+    "come": "bin/come.js"
   },
-  "keywords": ["AI", "CLI", "memory", "agents", "markdown", "symlink"],
+  "keywords": [
+    "AI",
+    "CLI",
+    "memory",
+    "agents",
+    "markdown",
+    "symlink"
+  ],
   "author": "Anton Oresten",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AntonOresten/coalesce-memory.git"
+    "url": "git+https://github.com/AntonOresten/coalesce-memory.git"
   },
   "homepage": "https://github.com/AntonOresten/coalesce-memory",
   "bugs": {
