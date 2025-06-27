@@ -8,5 +8,13 @@
   "keywords": ["AI", "CLI", "memory", "agents", "markdown", "symlink"],
   "author": "Anton Oresten",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntonOresten/coalesce-memory.git"
+  },
+  "homepage": "https://github.com/AntonOresten/coalesce-memory",
+  "bugs": {
+    "url": "https://github.com/AntonOresten/coalesce-memory/issues"
+  },
   "type": "module"
 }
