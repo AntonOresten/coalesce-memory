@@ -5,7 +5,7 @@ Unifies AI agent memory files into a single AGENTS.md file with symlinks.
 ## Install
 
 ```bash
-npm install -g coalesce-memory
+npm install -g git+https://github.com/AntonOresten/coalesce-memory.git
 ```
 
 ## Usage

@@ -1,6 +1,6 @@
 {
   "name": "coalesce-memory",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Coalesce agentic CLI memory files (CLAUDE.md, GEMINI.md, codex.md) into AGENTS.md",
   "bin": {
     "come": "./bin/come.js"
